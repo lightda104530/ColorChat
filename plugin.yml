@@ -1,0 +1,10 @@
+name: ColorChat
+description: A wonderful colorchat plugin for GenisysPro 
+author: lightda104530(TSRlightda)
+version: 1.0.0
+main: ColorChat\ColorChat
+api:
+- 1.12.0
+- 1.17.0
+- 1.19.0
+- 2.0.0
